@@ -1,4 +1,7 @@
 # coffee_shop_insights
+<img width="1054" alt="Coffee-shop-analysis" src="https://github.com/user-attachments/assets/e4186ce6-bdb6-4e39-a440-eadc436a626b">
+
+find above dashboard in final_coffee_report.xlsx
 
 # Project Details:
 In this project, you will learn how to analyze and derive insights from coffee sales data to support strategic business decisions for a coffee shop.
