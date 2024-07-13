@@ -13,27 +13,24 @@ As a data analyst, you will query the sample data to analyze coffee sales patter
 SQL: For data collection, cleaning, and transformation.
 Excel: For creating dashboards and visualizing the insights.
 # Insights from the Given Data:
-- More coffee sales in the USA:
+- The data indicates that the USA has the highest volume of coffee sales compared to other regions.
+- For 0.2 kg, Arabic coffee type is mostly purchased
 
-The data indicates that the USA has the highest volume of coffee sales compared to other regions.
-For 0.2 kg, Arabic coffee type is mostly purchased:
+- Customers buying 0.2 kg packs prefer Arabic coffee
 
-Customers buying 0.2 kg packs prefer Arabic coffee.
-Recent trends in coffee type:
+- Over recent years, the purchase of Arabic coffee in the USA is slightly declining, whereas Robusta coffee is being purchased more frequently.
+- Top customers for 1 kg roasts
 
-Over recent years, the purchase of Arabic coffee in the USA is slightly declining, whereas Robusta coffee is being purchased more frequently.
-Top customers for 1 kg roasts:
-
-Medium roast: Don Flintiff, Connor Heaviside
-Dark roast: Anselma Attwater
-Light roast: Mostly everyone (indicating a broader customer base without specific top buyers)
-All-time top customers for specific roasts:
+- - Medium roast: Don Flintiff, Connor Heaviside
+- - Dark roast: Anselma Attwater
+- - Light roast: Mostly everyone (indicating a broader customer base without specific top buyers)
+- - All-time top customers for specific roasts:
 
 Light roast: Brenn Dundredge
 Medium roast: Derick Snow, Flynn Antony
 Most selling country for all roast types:
 
-The USA remains the top-selling country for all three roast types (light, medium, dark).
+- The USA remains the top-selling country for all three roast types (light, medium, dark).
 # Skills Acquired:
 Tech: Applying SQL for data management, using Excel for creating effective dashboards
 Core: Creating compelling visualizations
